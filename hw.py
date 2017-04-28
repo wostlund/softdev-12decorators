@@ -1,4 +1,4 @@
-import time, random
+import time
 
 def wrapper( function ):
     def inner( *args ):
